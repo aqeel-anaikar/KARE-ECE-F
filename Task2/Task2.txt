@@ -1,0 +1,89 @@
+Java Programming - Problem Solving Questions
+
+1. Sum of Natural Numbers
+Write a program to calculate the sum of the first n natural numbers using a loop.
+Input: n = 5
+Output: 15
+
+2. Multiplication Table
+Write a program to print the multiplication table of a given number x.
+Input: x = 4
+Output:
+4 x 1 = 4
+4 x 2 = 8
+...
+4 x 10 = 40
+
+3. Factorial
+Write a function factorial(int n) to compute the factorial of a number using a loop.
+Input: 5
+Output: 120
+
+4. Reverse a Number
+Write a program to reverse the digits of a number.
+Input: 1234
+Output: 4321
+
+5. Check Prime Number
+Write a function to check if a given number is a prime number.
+Input: 11
+Output: Prime Number
+
+6. Fibonacci Series
+Write a program to print the first n terms of the Fibonacci series using a loop.
+Input: n = 6
+Output: 0, 1, 1, 2, 3, 5
+
+7. Pattern - Right-angled Triangle
+Write a program to print the following pattern:
+*
+**
+***
+****
+
+8. Pattern - Inverted Triangle
+Write a program to print the following pattern:
+****
+***
+**
+*
+
+9. Check Perfect Number
+Write a program to check if a number is a perfect number (sum of its divisors excluding itself equals
+the number).
+Input: 28
+Output: Perfect Number
+
+10. Sum of Digits
+Write a program to calculate the sum of the digits of a number.
+Input: 1234
+Output: 10
+
+11. LCM and GCD
+Write a program to calculate the LCM (Least Common Multiple) and GCD (Greatest Common
+Divisor) of two numbers using loops.
+Input: 12, 18
+Output: LCM = 36, GCD = 6
+
+12. Count Factors
+Write a program to count the number of factors of a number.
+Input: 6
+Output: 4 (Factors: 1, 2, 3, 6)
+
+13. Sum of Series
+Write a program to calculate the sum of the series:
+1 + 1/2 + 1/3 + ... + 1/n
+Input: n = 4
+Output: 2.08333
+
+14. Pattern - Number Pyramid
+Write a program to print the following pattern:
+ 1
+ 121
+ 12321
+1234321
+
+15. Count Vowels and Consonants
+Write a program to count the number of vowels and consonants in a given string using functions.
+Input: 'Hello'
+Output: Vowels = 2, Consonants = 3

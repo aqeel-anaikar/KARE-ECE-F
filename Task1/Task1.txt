@@ -1,0 +1,82 @@
+Java Problem-Solving Questions
+
+1. Even or Odd
+Write a program to check if a given number is even or odd.
+Input: A single integer.
+Output: 'Even' or 'Odd'.
+
+2. Find the Largest Number
+Write a program to find the largest of three numbers entered by the user.
+Input: Three integers.
+Output: The largest number.
+
+3. Simple Calculator
+Write a program to perform basic arithmetic operations (+, -, *, /) based on user input.
+Input: Two integers and an operator.
+Output: The result of the operation.
+
+4. Leap Year Checker
+Write a program to check if a year is a leap year.
+Input: A year.
+Output: 'Leap Year' or 'Not a Leap Year'.
+
+5. Sum of Natural Numbers
+Write a program to calculate the sum of the first n natural numbers.
+Input: A single integer n.
+Output: The sum of the first n natural numbers.
+
+6. Grade Calculator
+Write a program to assign grades based on marks. Use the following rules:
+- Marks >= 90: A
+- Marks >= 80: B
+- Marks >= 70: C
+- Marks >= 60: D
+- Below 60: F
+Input: Marks out of 100.
+Output: Grade.
+
+7. Reverse a Number
+Write a program to reverse the digits of an integer.
+Input: A positive integer.
+Output: The reversed number.
+
+8. Factorial of a Number
+Write a program to calculate the factorial of a given number using a loop.
+Input: A single integer.
+Output: Factorial of the number.
+
+9. Check Prime
+Write a program to check if a number is prime or not.
+Input: A single integer.
+Output: 'Prime' or 'Not Prime'.
+
+10. Fibonacci Series
+Write a program to print the Fibonacci series up to n terms.
+Input: A single integer n.
+Output: The Fibonacci series.
+
+11. Palindrome Checker
+Write a program to check if a given number is a palindrome.
+Input: A single integer.
+Output: 'Palindrome' or 'Not a Palindrome'.
+
+12. Sum of Digits
+Write a program to calculate the sum of the digits of a number.
+Input: A positive integer.
+Output: The sum of its digits.
+
+13. Number Classification
+Write a program to classify a number as 'Positive,' 'Negative,' or 'Zero.'
+Input: A single integer.
+Output: The classification.
+
+14. Armstrong Number
+Write a program to check if a number is an Armstrong number.
+Input: A single integer.
+Output: 'Armstrong Number' or 'Not an Armstrong Number'.
+
+15. LCM and GCD
+Write a program to find the LCM (Least Common Multiple) and GCD (Greatest Common Divisor) of
+two numbers.
+Input: Two integers.
+Output: LCM and GCD.
