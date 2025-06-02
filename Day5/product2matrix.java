@@ -29,5 +29,6 @@ public class product2matrix {
             System.out.println();
         }
 
+        
     }
 }
