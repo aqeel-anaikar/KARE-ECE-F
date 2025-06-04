@@ -2,6 +2,7 @@
 // to it's right [16 17 4 3 5 2]
 // [17 5 2]
 
+
 // import java.util.Arrays;
 // import java.util.Scanner;
 

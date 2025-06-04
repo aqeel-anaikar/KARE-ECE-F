@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class Handcricket {
+public class Handcricket 
+{
     static int Player(){
         Scanner sc = new Scanner(System.in);
         System.out.print("Player :");
